@@ -1,4 +1,4 @@
-# Electricity usage analysis in Lithuania.
+# Electricity usage analysis in Lithuania
 
 ## Results
 ![1](./output1.png)
