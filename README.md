@@ -1,3 +1,8 @@
-Electricity usage analysis in Lithuania.
+# Electricity usage analysis in Lithuania.
 
-Tasks can be found in the file "analitiku uzduotys"
+## Results
+![1](./output1.png)
+
+![2](./output2.png)
+
+- Tasks can be found in the file "analitiku uzduotys"
